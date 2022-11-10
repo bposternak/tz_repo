@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T07:34:44.369Z" agent="5.0 (Windows)" etag="KnawUah5h5Xin-82-wbn" version="20.5.3" type="github"><diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">7Vpbc+MmFP41nmkfuiOhqx+z3iR9aDo7dbt9JhaWaLBQEYrs/fUFCaybL4lHWlluNg8LR3CA7/sOOiDPrMVm+8hgEj3RAJEZMILtzPoyA8C0DV/8Jy270uLZyhAyHKhGlWGJvyNlNJQ1wwFKGw05pYTjpGlc0ThGK96wQcZo3my2pqQ5agJD1DEsV5Bo6yensv+NAx4pu+nOqwe/IhxGanAfuOWDZ7h6CRnNYjViTGNUPtlA7UatMo1gQPOaybqfWQtGKS9Lm+0CEQmsxkz34zs90Zn1OeIbIiqmKBaPH450Nt/SWayLoZjXhzvmz4KmtzZXyHEMEzgB/EUN8ApJpgZY0jXPhUNhXdCYM0o6c8gjzNEygStZz4WampPaQyQra+FDaUXMTdQxIQtKKCtcWWtH/slOYqQXVHviFv/2TzShEoAAphEKjkKg14QYR9uaSUHyiOgGcbYTTdRTb+6VXZTyLdsu63lNRY4iMqoJyFU2qKQb7l1XHIiCouGtlFgdwFEglK6qiDzT/L4yfC50W8BhtHjgkPE7GVnCUEha2R6wnE3R/B/E+U7xAzNOhYkyHtGQxpD8RmnSpdH0Rb2YhahIkLGIwVNEpDRjK3RktUDtFJCFiB9po9iQKJykkyECOX5t7hL9cmN/cNNs41wPN84HN8027vVw435w02zjXQ833gS4uYwInZqeZAL0zUTRVeAAd7UGCcUxT2uev0pDlYPMjWYO4jl2i9XSY8XxfmqX0Q46md8iSzndSExzzFeRKDxBzvB2BlzCZdqFX0Ux5AUdpemZtS1iHgfa1Uw/ld7FSQEsitNAlhDEVG2Dt4iVRbhJlBFyjuKsLKcJwaLK0p+PDdhPrlqI7v25ah/JqN8Ugu0cSEa9A8ko8IfIRu3uASERpzeWSaHciaDdfZeMTR1107BasB86A4AfdQZwOqj/jnhO2cttg+6AMUF3O6B/pbnE2XhC/Cbxdo0x8fY6eD8w9O+n4uIhk+/G28PbHxPvA1dR15fo9ZaE+5NJ/TyntQuaA6d+fifwvolXOpU73RKHgh9ReEQxYrAwTj0MnfmFr/b9nV+/Ydi91L3hMJyPEYYXczPvRMbdH2LhhvQo0gAayBApl3tzYeFaY76c9FG9Bv2Xv/6cPsrefK6/S+mTvXcAZ9s5sP2AQYD2/0/bj6m/RJ7af7T2rmAD0vOth4G899AnkWWWJASjdPqB0d5+/FHPIgBMICouDIHxLkG7t5ytA5GnD0TaRbkS1avi87wju+WoXG3H0buvZcHJa9kruMadwtfio8IdWm9+6zJ1/+59r946jqxh9NYZ54zezrQfQG9T+AI+nt6cMzJ5s97ajtrC7Utv7XHeqzd3aL1N4av+eHprvwYv1lvb0VB6a49zTm/uj9bbFH6pMJ7ezL701nY0lN7a45zTm92r3kS1+mlo2bz68a11/x8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-10T11:57:45.682Z" agent="5.0 (Windows)" etag="1nPsOma4bdn0yYfNpKs2" version="20.5.3" type="github">
+  <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
+    <mxGraphModel dx="1312" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-24" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#000000;" edge="1" parent="1" source="3a17f1ce550125da-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3a17f1ce550125da-8" value="Блок Живлення " style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="590" y="450" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="3a17f1ce550125da-10" value="блок збору та накопиченя даних " style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="813.5" y="760" width="145" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-2" value="Система керування зварюванням" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="780" y="600" width="145" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-25" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#000000;" edge="1" parent="1" source="LXMBoDBekxPs2CPMqvm8-4" target="LXMBoDBekxPs2CPMqvm8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-4" value="Генератор ВЧ струму" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="792" y="450" width="188" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-21" value="Блок вимірюваннь" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="450" width="120" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-23" value="Інтерфес управління" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="600" y="780" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#000000;exitX=0.475;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="LXMBoDBekxPs2CPMqvm8-23" target="LXMBoDBekxPs2CPMqvm8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="780" as="sourcePoint" />
+            <mxPoint x="720" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.269;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="3a17f1ce550125da-10" target="LXMBoDBekxPs2CPMqvm8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="760" as="sourcePoint" />
+            <mxPoint x="910" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#000000;entryX=0.582;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.348;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="3a17f1ce550125da-10" target="LXMBoDBekxPs2CPMqvm8-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="760" as="sourcePoint" />
+            <mxPoint x="910" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-33" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LXMBoDBekxPs2CPMqvm8-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#000000;entryX=0.448;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.552;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="LXMBoDBekxPs2CPMqvm8-2" target="LXMBoDBekxPs2CPMqvm8-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="600" as="sourcePoint" />
+            <mxPoint x="890" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
